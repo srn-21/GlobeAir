@@ -4,3 +4,5 @@ requests
 folium
 streamlit-folium
 prophet
+plotly
+python-dotenv
